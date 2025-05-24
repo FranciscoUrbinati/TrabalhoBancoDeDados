@@ -1,4 +1,5 @@
 Sistema de Chamados — Projeto de Banco de Dados.
+
 Este repositório contém um projeto acadêmico que implementa um sistema básico de gerenciamento de chamados utilizando C# e PostgreSQL. O foco principal é aplicar conceitos de banco de dados relacionais em um cenário realista de suporte técnico.
 
 - Funcionalidades

@@ -17,11 +17,17 @@ Este repositório contém um projeto acadêmico que implementa um sistema básic
 
 CREATE TABLE chamado (
     id_chamado SERIAL PRIMARY KEY,
+    
     data_abertura TIMESTAMP NOT NULL,
+    
     status VARCHAR(50),
+    
     id_funcionario INT NOT NULL,
+    
     categoria VARCHAR(100),
+    
     titulo VARCHAR(255),
+    
     descricao TEXT
 );
 

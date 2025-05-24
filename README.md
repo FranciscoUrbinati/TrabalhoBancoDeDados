@@ -30,6 +30,7 @@ CREATE TABLE chamado (
     titulo VARCHAR(255),
     
     descricao TEXT
+    
 );
 
 - Objetivo

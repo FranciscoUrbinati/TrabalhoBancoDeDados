@@ -15,8 +15,8 @@ Este repositório contém um projeto acadêmico que implementa um sistema básic
 
 - Modelo de Tabela (PostgreSQL)
 
-CREATE TABLE chamado (
-
+    CREATE TABLE chamado (
+  
     id_chamado SERIAL PRIMARY KEY,
     
     data_abertura TIMESTAMP NOT NULL,
@@ -31,7 +31,9 @@ CREATE TABLE chamado (
     
     descricao TEXT
     
-);
+    );
+    
+
 
 - Objetivo
 
